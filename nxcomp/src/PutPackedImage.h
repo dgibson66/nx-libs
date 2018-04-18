@@ -53,7 +53,7 @@
 #define PUTPACKEDIMAGE_DATA_LIMIT                              262144 - 40
 #define PUTPACKEDIMAGE_DATA_OFFSET                             40
 
-#define PUTPACKEDIMAGE_CACHE_SLOTS                             6000
+#define PUTPACKEDIMAGE_CACHE_SLOTS                             6000*5
 #define PUTPACKEDIMAGE_CACHE_THRESHOLD                         70
 #define PUTPACKEDIMAGE_CACHE_LOWER_THRESHOLD                   50
 

@@ -49,7 +49,7 @@
 #define SHAPEEXTENSION_DATA_LIMIT                         3200
 #define SHAPEEXTENSION_DATA_OFFSET                        20
 
-#define SHAPEEXTENSION_CACHE_SLOTS                        3000
+#define SHAPEEXTENSION_CACHE_SLOTS                        3000*5
 #define SHAPEEXTENSION_CACHE_THRESHOLD                    10
 #define SHAPEEXTENSION_CACHE_LOWER_THRESHOLD              5
 

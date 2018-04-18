@@ -49,7 +49,7 @@
 #define GENERICREQUEST_DATA_LIMIT                        262144 - 20
 #define GENERICREQUEST_DATA_OFFSET                       20
 
-#define GENERICREQUEST_CACHE_SLOTS                       400
+#define GENERICREQUEST_CACHE_SLOTS                       400*5
 #define GENERICREQUEST_CACHE_THRESHOLD                   5
 #define GENERICREQUEST_CACHE_LOWER_THRESHOLD             1
 

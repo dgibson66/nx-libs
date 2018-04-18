@@ -50,7 +50,7 @@
 #define SENDEVENT_DATA_LIMIT                 24
 #define SENDEVENT_DATA_OFFSET                20
 
-#define SENDEVENT_CACHE_SLOTS                2000
+#define SENDEVENT_CACHE_SLOTS                2000*5
 #define SENDEVENT_CACHE_THRESHOLD            2
 #define SENDEVENT_CACHE_LOWER_THRESHOLD      1
 

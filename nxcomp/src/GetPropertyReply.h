@@ -49,7 +49,7 @@
 #define GETPROPERTYREPLY_DATA_LIMIT                         1048576 - 32
 #define GETPROPERTYREPLY_DATA_OFFSET                        32
 
-#define GETPROPERTYREPLY_CACHE_SLOTS                        400
+#define GETPROPERTYREPLY_CACHE_SLOTS                        400*5
 #define GETPROPERTYREPLY_CACHE_THRESHOLD                    5
 #define GETPROPERTYREPLY_CACHE_LOWER_THRESHOLD              1
 

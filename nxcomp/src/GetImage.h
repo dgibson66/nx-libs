@@ -50,7 +50,7 @@
 #define GETIMAGE_DATA_LIMIT                 0
 #define GETIMAGE_DATA_OFFSET                20
 
-#define GETIMAGE_CACHE_SLOTS                200
+#define GETIMAGE_CACHE_SLOTS                200*5
 #define GETIMAGE_CACHE_THRESHOLD            1
 #define GETIMAGE_CACHE_LOWER_THRESHOLD      0
 

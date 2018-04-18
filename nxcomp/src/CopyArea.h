@@ -50,7 +50,7 @@
 #define COPYAREA_DATA_LIMIT                 0
 #define COPYAREA_DATA_OFFSET                28
 
-#define COPYAREA_CACHE_SLOTS                3000
+#define COPYAREA_CACHE_SLOTS                3000*5
 #define COPYAREA_CACHE_THRESHOLD            5
 #define COPYAREA_CACHE_LOWER_THRESHOLD      1
 

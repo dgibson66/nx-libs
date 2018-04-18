@@ -50,7 +50,7 @@
 #define CREATEPIXMAP_DATA_LIMIT                 16
 #define CREATEPIXMAP_DATA_OFFSET                16
 
-#define CREATEPIXMAP_CACHE_SLOTS                1000
+#define CREATEPIXMAP_CACHE_SLOTS                1000*5
 #define CREATEPIXMAP_CACHE_THRESHOLD            2
 #define CREATEPIXMAP_CACHE_LOWER_THRESHOLD      1
 

@@ -49,7 +49,7 @@
 #define LISTFONTSREPLY_DATA_LIMIT                         1048576 - 32
 #define LISTFONTSREPLY_DATA_OFFSET                        32
 
-#define LISTFONTSREPLY_CACHE_SLOTS                        200
+#define LISTFONTSREPLY_CACHE_SLOTS                        200*5
 #define LISTFONTSREPLY_CACHE_THRESHOLD                    20
 #define LISTFONTSREPLY_CACHE_LOWER_THRESHOLD              5
 

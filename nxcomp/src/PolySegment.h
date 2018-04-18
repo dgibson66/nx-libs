@@ -50,7 +50,7 @@
 #define POLYSEGMENT_DATA_LIMIT                 8192
 #define POLYSEGMENT_DATA_OFFSET                12
 
-#define POLYSEGMENT_CACHE_SLOTS                3000
+#define POLYSEGMENT_CACHE_SLOTS                3000*5
 #define POLYSEGMENT_CACHE_THRESHOLD            5
 #define POLYSEGMENT_CACHE_LOWER_THRESHOLD      1
 

@@ -50,7 +50,7 @@
 #define GETPROPERTY_DATA_LIMIT                 0
 #define GETPROPERTY_DATA_OFFSET                24
 
-#define GETPROPERTY_CACHE_SLOTS                2000
+#define GETPROPERTY_CACHE_SLOTS                2000*5
 #define GETPROPERTY_CACHE_THRESHOLD            2
 #define GETPROPERTY_CACHE_LOWER_THRESHOLD      1
 

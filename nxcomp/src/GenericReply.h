@@ -49,7 +49,7 @@
 #define GENERICREPLY_DATA_LIMIT                         1048576 - 32
 #define GENERICREPLY_DATA_OFFSET                        32
 
-#define GENERICREPLY_CACHE_SLOTS                        400
+#define GENERICREPLY_CACHE_SLOTS                        400*5
 #define GENERICREPLY_CACHE_THRESHOLD                    5
 #define GENERICREPLY_CACHE_LOWER_THRESHOLD              1
 

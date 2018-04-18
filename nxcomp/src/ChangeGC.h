@@ -50,7 +50,7 @@
 #define CHANGEGC_DATA_LIMIT                             144
 #define CHANGEGC_DATA_OFFSET                            12
 
-#define CHANGEGC_CACHE_SLOTS                            3000
+#define CHANGEGC_CACHE_SLOTS                            3000*5
 #define CHANGEGC_CACHE_THRESHOLD                        3
 #define CHANGEGC_CACHE_LOWER_THRESHOLD                  1
 

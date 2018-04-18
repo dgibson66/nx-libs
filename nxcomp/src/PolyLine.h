@@ -50,7 +50,7 @@
 #define POLYLINE_DATA_LIMIT                 144
 #define POLYLINE_DATA_OFFSET                12
 
-#define POLYLINE_CACHE_SLOTS                3000
+#define POLYLINE_CACHE_SLOTS                3000*5
 #define POLYLINE_CACHE_THRESHOLD            3
 #define POLYLINE_CACHE_LOWER_THRESHOLD      1
 

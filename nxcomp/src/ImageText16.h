@@ -50,7 +50,7 @@
 #define IMAGETEXT16_DATA_LIMIT                 512
 #define IMAGETEXT16_DATA_OFFSET                16
 
-#define IMAGETEXT16_CACHE_SLOTS                3000
+#define IMAGETEXT16_CACHE_SLOTS                3000*5
 #define IMAGETEXT16_CACHE_THRESHOLD            5
 #define IMAGETEXT16_CACHE_LOWER_THRESHOLD      1
 

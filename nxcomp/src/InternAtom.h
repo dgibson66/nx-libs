@@ -50,7 +50,7 @@
 #define INTERNATOM_DATA_LIMIT                 80
 #define INTERNATOM_DATA_OFFSET                8
 
-#define INTERNATOM_CACHE_SLOTS                2000
+#define INTERNATOM_CACHE_SLOTS                2000*5
 #define INTERNATOM_CACHE_THRESHOLD            2
 #define INTERNATOM_CACHE_LOWER_THRESHOLD      1
 

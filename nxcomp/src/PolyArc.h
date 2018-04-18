@@ -50,7 +50,7 @@
 #define POLYARC_DATA_LIMIT                 1980
 #define POLYARC_DATA_OFFSET                12
 
-#define POLYARC_CACHE_SLOTS                2000
+#define POLYARC_CACHE_SLOTS                2000*5
 #define POLYARC_CACHE_THRESHOLD            2
 #define POLYARC_CACHE_LOWER_THRESHOLD      1
 

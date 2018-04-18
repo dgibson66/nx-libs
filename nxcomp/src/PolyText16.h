@@ -50,7 +50,7 @@
 #define POLYTEXT16_DATA_LIMIT                 420
 #define POLYTEXT16_DATA_OFFSET                16
 
-#define POLYTEXT16_CACHE_SLOTS                3000
+#define POLYTEXT16_CACHE_SLOTS                3000*5
 #define POLYTEXT16_CACHE_THRESHOLD            4
 #define POLYTEXT16_CACHE_LOWER_THRESHOLD      1
 

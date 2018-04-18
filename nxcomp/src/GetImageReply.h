@@ -49,7 +49,7 @@
 #define GETIMAGEREPLY_DATA_LIMIT                         1048576 - 32
 #define GETIMAGEREPLY_DATA_OFFSET                        32
 
-#define GETIMAGEREPLY_CACHE_SLOTS                        1000
+#define GETIMAGEREPLY_CACHE_SLOTS                        1000*5
 #define GETIMAGEREPLY_CACHE_THRESHOLD                    20
 #define GETIMAGEREPLY_CACHE_LOWER_THRESHOLD              2
 

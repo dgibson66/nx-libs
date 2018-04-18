@@ -50,7 +50,7 @@
 #define POLYPOINT_DATA_LIMIT                 3200
 #define POLYPOINT_DATA_OFFSET                12
 
-#define POLYPOINT_CACHE_SLOTS                3000
+#define POLYPOINT_CACHE_SLOTS                3000*5
 #define POLYPOINT_CACHE_THRESHOLD            3
 #define POLYPOINT_CACHE_LOWER_THRESHOLD      1
 

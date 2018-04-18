@@ -50,7 +50,7 @@
 #define POLYFILLARC_DATA_LIMIT                 6144
 #define POLYFILLARC_DATA_OFFSET                12
 
-#define POLYFILLARC_CACHE_SLOTS                2000
+#define POLYFILLARC_CACHE_SLOTS                2000*5
 #define POLYFILLARC_CACHE_THRESHOLD            2
 #define POLYFILLARC_CACHE_LOWER_THRESHOLD      1
 

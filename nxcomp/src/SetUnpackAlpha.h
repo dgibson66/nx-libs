@@ -47,7 +47,7 @@
 
 #define SETUNPACKALPHA_DATA_LIMIT                         16384
 
-#define SETUNPACKALPHA_CACHE_SLOTS                        2000
+#define SETUNPACKALPHA_CACHE_SLOTS                        2000*5
 #define SETUNPACKALPHA_CACHE_THRESHOLD                    10
 #define SETUNPACKALPHA_CACHE_LOWER_THRESHOLD              5
 

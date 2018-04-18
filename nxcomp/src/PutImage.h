@@ -48,7 +48,7 @@
 #define PUTIMAGE_DATA_LIMIT                              262144 - 24
 #define PUTIMAGE_DATA_OFFSET                             24
 
-#define PUTIMAGE_CACHE_SLOTS                             6000
+#define PUTIMAGE_CACHE_SLOTS                             6000*5
 #define PUTIMAGE_CACHE_THRESHOLD                         70
 #define PUTIMAGE_CACHE_LOWER_THRESHOLD                   50
 

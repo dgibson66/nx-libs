@@ -50,7 +50,7 @@
 #define POLYTEXT8_DATA_LIMIT                 380
 #define POLYTEXT8_DATA_OFFSET                16
 
-#define POLYTEXT8_CACHE_SLOTS                3000
+#define POLYTEXT8_CACHE_SLOTS                3000*5
 #define POLYTEXT8_CACHE_THRESHOLD            5
 #define POLYTEXT8_CACHE_LOWER_THRESHOLD      1
 

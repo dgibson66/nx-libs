@@ -50,7 +50,7 @@
 #define IMAGETEXT8_DATA_LIMIT                 256
 #define IMAGETEXT8_DATA_OFFSET                16
 
-#define IMAGETEXT8_CACHE_SLOTS                3000
+#define IMAGETEXT8_CACHE_SLOTS                3000*5
 #define IMAGETEXT8_CACHE_THRESHOLD            5
 #define IMAGETEXT8_CACHE_LOWER_THRESHOLD      1
 

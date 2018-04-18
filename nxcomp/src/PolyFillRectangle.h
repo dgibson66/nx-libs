@@ -50,7 +50,7 @@
 #define POLYFILLRECTANGLE_DATA_LIMIT                             2048
 #define POLYFILLRECTANGLE_DATA_OFFSET                            12
 
-#define POLYFILLRECTANGLE_CACHE_SLOTS                            4000
+#define POLYFILLRECTANGLE_CACHE_SLOTS                            4000*5
 #define POLYFILLRECTANGLE_CACHE_THRESHOLD                        5
 #define POLYFILLRECTANGLE_CACHE_LOWER_THRESHOLD                  1
 

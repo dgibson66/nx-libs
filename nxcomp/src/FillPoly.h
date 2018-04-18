@@ -49,7 +49,7 @@
 
 #define FILLPOLY_DATA_LIMIT                 512
 
-#define FILLPOLY_CACHE_SLOTS                2000
+#define FILLPOLY_CACHE_SLOTS                2000*5
 #define FILLPOLY_CACHE_THRESHOLD            3
 #define FILLPOLY_CACHE_LOWER_THRESHOLD      1
 

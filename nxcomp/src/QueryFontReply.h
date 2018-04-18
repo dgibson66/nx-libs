@@ -48,7 +48,7 @@
 #define QUERYFONTREPLY_DATA_LIMIT                         1048576 - 32
 #define QUERYFONTREPLY_DATA_OFFSET                        8
 
-#define QUERYFONTREPLY_CACHE_SLOTS                        200
+#define QUERYFONTREPLY_CACHE_SLOTS                        200*5
 #define QUERYFONTREPLY_CACHE_THRESHOLD                    20
 #define QUERYFONTREPLY_CACHE_LOWER_THRESHOLD              5
 

@@ -50,7 +50,7 @@
 #define CREATEGC_DATA_LIMIT                 144
 #define CREATEGC_DATA_OFFSET                16
 
-#define CREATEGC_CACHE_SLOTS                2000
+#define CREATEGC_CACHE_SLOTS                2000*5
 #define CREATEGC_CACHE_THRESHOLD            2
 #define CREATEGC_CACHE_LOWER_THRESHOLD      1
 

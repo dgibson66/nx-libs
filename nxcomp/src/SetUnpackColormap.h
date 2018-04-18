@@ -47,7 +47,7 @@
 
 #define SETUNPACKCOLORMAP_DATA_LIMIT                         4096
 
-#define SETUNPACKCOLORMAP_CACHE_SLOTS                        2000
+#define SETUNPACKCOLORMAP_CACHE_SLOTS                        2000*5
 #define SETUNPACKCOLORMAP_CACHE_THRESHOLD                    5
 #define SETUNPACKCOLORMAP_CACHE_LOWER_THRESHOLD              0
 

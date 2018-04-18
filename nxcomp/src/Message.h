@@ -82,7 +82,7 @@ class WriteBuffer;
 #define MESSAGE_DATA_LIMIT                          4194304 - 4
 #define MESSAGE_DATA_OFFSET                         4
 
-#define MESSAGE_CACHE_SLOTS                         6000
+#define MESSAGE_CACHE_SLOTS                         6000*5
 #define MESSAGE_CACHE_THRESHOLD                     50
 #define MESSAGE_CACHE_LOWER_THRESHOLD               5
 

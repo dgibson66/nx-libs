@@ -50,7 +50,7 @@
 #define CLEARAREA_DATA_LIMIT                 0
 #define CLEARAREA_DATA_OFFSET                16
 
-#define CLEARAREA_CACHE_SLOTS                3000
+#define CLEARAREA_CACHE_SLOTS                3000*5
 #define CLEARAREA_CACHE_THRESHOLD            5
 #define CLEARAREA_CACHE_LOWER_THRESHOLD      1
 
